@@ -1,16 +1,41 @@
-# bazeecha
+# Bazeecha  
+Bazeecha is a mobile app designed to bring interactive **Urdu minigames**, daily vocabulary challenges, and board game utilities to users. Whether you're looking to test your Urdu skills, shop for products, or add excitement to your board games, Bazeecha has something for everyone!  
 
-A new Flutter project.
+### Features  
 
-## Getting Started
+- **Urdu Minigames**  
+  - Hangman  
+  - Type Racing  
+  - Word Pairing  
 
-This project is a starting point for a Flutter application.
+- **Daily Word of the Day**  
+  - Three new Urdu words every day  
 
-A few resources to get you started if this is your first Flutter project:
+- **Cart & Order Services**  
+  - Browse and purchase products  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Board Game Utilities**  
+  - Cases Randomizer  
+  - Dares Randomizer  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots  
+
+Here are some previews of Bazeecha:  
+
+![Bazeecha Home Screen](path/to/home_screen_image.png)  
+*Home screen showcasing different features.*  
+
+![Urdu Minigames](path/to/minigames_image.png)  
+*Play fun Urdu minigames like Hangman, Type Racing, and Word Pairing.*  
+
+![Cart & Order Services](path/to/cart_image.png)  
+*Easily browse and purchase products.*    
+
+## Download  
+
+[Click here to download Bazeecha](https://drive.google.com/file/d/1BHMebeEMH6lMXjUtIoTOrXWYmt_fSyAO/view?usp=sharing)  
+
+## Feedback  
+
+I'd love to hear your thoughts! If you have any suggestions, feature requests, or need support, feel free to reach out.  
+
